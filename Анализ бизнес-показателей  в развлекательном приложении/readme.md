@@ -1,4 +1,5 @@
-# Анализ бизнес-показателей развлекательного приложения Procrastinate Pro+
+# Анализ бизнес-показателей и причин убытков развлекательного приложения Procrastinate Pro+
+[Notebook link] (https://github.com/kitomakito/yandex_practicum_projects/blob/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9%20%20%D0%B2%20%D1%80%D0%B0%D0%B7%D0%B2%D0%BB%D0%B5%D0%BA%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%BC%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8/ProcrastinatePRO_notebook.ipynb)
 ### Описание проекта
 В нашем распоряжении данные для анализа развлекательного приложения Procrastinate Pro+. Несмотря на огромные вложения в рекламу, последние несколько месяцев компания терпит убытки.
 Есть данные о пользователях, привлечённых с 1 мая по 27 октября 2019 года:
